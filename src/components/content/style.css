@@ -1,0 +1,28 @@
+.content-container{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    /* background-color: aqua; */
+}
+.content-text{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+.first-content{
+    font-size: 30px;
+    font-weight: 500;
+}
+.second-content{
+    font-size: 16px;
+    font-weight: 500;
+    width: 75%;
+    color: chocolate;
+
+}
+.image2-css{
+    width: 90%;
+    height: 35vh;
+}

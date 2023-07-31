@@ -1,0 +1,45 @@
+.dashboard-table{
+    background-color: chocolate;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px chocolate;
+}
+/* style.css */
+
+/* Table Styles */
+.table {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    
+  }
+  
+  th {
+    background-color: antiquewhite;
+    font-weight: bold;
+    color:chocolate;
+  }
+  
+  /* Alternating row background colors */
+  tbody tr:nth-child(even) {
+    background-color: antiquewhite;
+    cursor: pointer;
+    color:chocolate;
+  }
+  
+  /* Hover effect */
+  tbody tr:hover {
+    background-color: antiquewhite;
+    cursor: pointer;
+    color:chocolate
+  }
+  
