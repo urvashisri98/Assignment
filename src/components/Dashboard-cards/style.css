@@ -1,0 +1,47 @@
+.dashboard-card-container {
+  padding: 30px 40px 50px 70px;
+}
+.dashboardcard-inner-container {
+    justify-content: space-between;
+    display: flex;
+    box-shadow: 0px 0px 10px antiquewhite;
+}
+.dashboard-inner-container {
+  background-color: antiquewhite;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap:40px;
+  padding: 35px 50px 37px 50px;
+  box-shadow: 0px 0px 10px antiquewhite;
+}
+.dashboardcards {
+  background-color: chocolate;
+  padding: 25px 60px 35px 50px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 100px;
+  width: 20%;
+}
+
+.dashboard-name-counting {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+  color: antiquewhite;
+}
+.dashboard-icon {
+  background-color: antiquewhite;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 20px;
+}
+.dashboard-name {
+  font-size: 22px;
+}

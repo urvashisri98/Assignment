@@ -1,0 +1,62 @@
+.header-container {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+  padding: 19px 40px 19px 70px;
+}
+.header-name {
+  font-size: 36px;
+  color: chocolate;
+  font-weight: 700;
+}
+.header-button {
+  font-size: 16px;
+  color: chocolate;
+  border: 1px solid chocolate;
+  padding: 8px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.header-button:hover {
+  font-size: 16px;
+  background-color: chocolate;
+  color: rgb(232, 222, 215);
+  border: 1px solid chocolate;
+  padding: 8px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.logout-icon{
+    font-size: 16px;
+    color: chocolate;
+    border: 1px solid chocolate;
+    padding: 8px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.logout-icon:hover{
+    font-size: 16px;
+    background-color: chocolate;
+    color: rgb(232, 222, 215);
+    border: 1px solid chocolate;
+    padding: 8px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.dashboard-plus-icon{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
